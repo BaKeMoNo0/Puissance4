@@ -1,7 +1,8 @@
 # Connect Four - SDL2
 
 ## 📌 Description
-This project is an implementation of the Connect Four game in C, using the SDL2 library. It was created in 2023.
+This project is an implementation of the Connect Four game in C, using the SDL2 library. 
+It was created in 2023.
 It offers two game modes: console and graphical.
 
 ## 🎮 Features
@@ -33,6 +34,7 @@ Prerequisites
 
 Compilation & Execution
   - Run the following commands in your terminal:
+
     make clean  
     make  
     ./fp4  
